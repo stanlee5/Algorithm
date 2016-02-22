@@ -1,4 +1,3 @@
 Algorithms
 ==========
-
-Set of frequently used algorithms in algorithm problem solving contest.
+Basic algorithm sources used in algorithm problem solving contest.
