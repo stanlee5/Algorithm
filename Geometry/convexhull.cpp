@@ -1,0 +1,5 @@
+#include <cstdio>
+
+struct convexhull
+{
+}
